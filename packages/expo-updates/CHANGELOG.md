@@ -4,9 +4,14 @@
 
 ### 🛠 Breaking changes
 
+- [android] Add support for version 1 of the protocol. ([#20275](https://github.com/expo/expo/pull/20275) by [@wschurman](https://github.com/wschurman))
+
+
 ### 🎉 New features
 
 - New hook useUpdateEvents(). ([#21258](https://github.com/expo/expo/pull/21258) by [@douglowder](https://github.com/douglowder))
+
+- [android] [expo-updates][android] Add rollback to embedded update directive. ([#21007](https://github.com/expo/expo/pull/21007) by [@wschurman](https://github.com/wschurman))
 
 ### 🐛 Bug fixes
 
